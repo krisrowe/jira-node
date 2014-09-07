@@ -1,0 +1,16 @@
+{
+  "name": "jira-node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "jira.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.40.0",
+    "async": "~0.9.0",
+    "prompt": "~0.2.13"
+  }
+}
