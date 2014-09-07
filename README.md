@@ -53,7 +53,7 @@ WARNING: Using this option is not advisable. SSL certificates should be properly
 node jira.js [arguments] --validate-ssl-cert=false
 ```
 
-#### Syntax
+#### Example
 ```
 node jira.js jira.mydomain.com PROJ-101 get --validate-ssl-cert=false
 ```
